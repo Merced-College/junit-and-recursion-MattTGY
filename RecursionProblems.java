@@ -3,7 +3,7 @@
  * Date: April 13, 2026
  * Explanation: This class contains recursive solutions for five logic problems:
  * counting specific digits, counting substrings with specific rules, and cleaning strings.
- * All solutions avoid the use of loops like for and while and instead uses if
+ * All solutions avoid the use of loops like for and while and instead uses if statements
  */
 
 public class RecursionProblems {
